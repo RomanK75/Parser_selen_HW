@@ -1,22 +1,22 @@
 {
     "vacancy": [
         {
-            "name": "Старший программист-разработчик (Python/Django) / Senior back-end developer",
-            "salary_array": "200 000 – 300 000 руб.",
+            "name": "РЎС‚Р°СЂС€РёР№ РїСЂРѕРіСЂР°РјРјРёСЃС‚-СЂР°Р·СЂР°Р±РѕС‚С‡РёРє (Python/Django) / Senior back-end developer",
+            "salary_array": "200 000 вЂ“ 300 000 СЂСѓР±.",
             "company": "CATAPULTO.RU",
-            "town": "Москва, Павелецкая и еще 1 "
+            "town": "РњРѕСЃРєРІР°, РџР°РІРµР»РµС†РєР°СЏ Рё РµС‰Рµ 1 "
         },
         {
-            "name": "Разработчик Python (Django, DRF)",
-            "salary_array": "150 000 – 250 000 руб.",
-            "company": "ООО Фабрика Решений",
-            "town": "Москва"
+            "name": "Р Р°Р·СЂР°Р±РѕС‚С‡РёРє Python (Django, DRF)",
+            "salary_array": "150 000 вЂ“ 250 000 СЂСѓР±.",
+            "company": "РћРћРћ Р¤Р°Р±СЂРёРєР° Р РµС€РµРЅРёР№",
+            "town": "РњРѕСЃРєРІР°"
         },
         {
-            "name": "Middle разработчик Python / Django",
-            "salary_array": "60 000 – 140 000 руб.",
-            "company": "ООО РА Дельта",
-            "town": "Москва"
+            "name": "Middle СЂР°Р·СЂР°Р±РѕС‚С‡РёРє Python / Django",
+            "salary_array": "60 000 вЂ“ 140 000 СЂСѓР±.",
+            "company": "РћРћРћ Р Рђ Р”РµР»СЊС‚Р°",
+            "town": "РњРѕСЃРєРІР°"
         }
     ]
 }

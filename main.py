@@ -52,5 +52,5 @@ except Exception as ex:
 finally:
     driver.close()
     driver.quit()
-with open("data.txt", "w") as outfile:
-    json.dump(vac_list, outfile, indent=4, ensure_ascii=False)
+with open("data.txt", "w", encoding='Utf-8') as outfile:
+    json.dump(vac_list, outfile, indent=4, ensure_ascii=False,)
