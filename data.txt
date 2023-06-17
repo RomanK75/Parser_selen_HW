@@ -1,0 +1,22 @@
+{
+    "vacancy": [
+        {
+            "name": "Старший программист-разработчик (Python/Django) / Senior back-end developer",
+            "salary_array": "200 000 – 300 000 руб.",
+            "company": "CATAPULTO.RU",
+            "town": "Москва, Павелецкая и еще 1 "
+        },
+        {
+            "name": "Разработчик Python (Django, DRF)",
+            "salary_array": "150 000 – 250 000 руб.",
+            "company": "ООО Фабрика Решений",
+            "town": "Москва"
+        },
+        {
+            "name": "Middle разработчик Python / Django",
+            "salary_array": "60 000 – 140 000 руб.",
+            "company": "ООО РА Дельта",
+            "town": "Москва"
+        }
+    ]
+}
